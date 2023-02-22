@@ -1,0 +1,25 @@
+.aboba{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.bobis{
+    display: flex;
+    font-size: 60px;
+}
+.rez{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-top: 40px;
+}
+.naprav{
+    font-size: 25px;
+    color: darkolivegreen;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.trext{
+    color: black;
+}
